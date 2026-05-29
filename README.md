@@ -1,4 +1,4 @@
-# COVID-19 Global Dashboard
+# 🦠 COVID-19 Global Dashboard
 
 A comprehensive Dash application for tracking global COVID-19 statistics including cases, deaths, recoveries, vaccination progress, and regional breakdowns. Features a special spotlight section on Cambodia.
 
@@ -40,4 +40,5 @@ Open your browser at: http://127.0.0.1:8050
 - Johns Hopkins CSSE
 - Our World in Data
 
-*Figures reflect cumulative totals as of early 2024. create by Ream*
+> ⚡ Data reflects cumulative statistics as of early 2024  
+> Made with ❤️ by Ream
